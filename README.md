@@ -1,4 +1,4 @@
-# Mushroom Classification Project
+## Mushroom Classification Project
 **Overview :**
     This project aims to classify mushrooms into edible or poisonous categories based on various attributes. It uses machine learning algorithms to make predictions and evaluate their performance.
 
